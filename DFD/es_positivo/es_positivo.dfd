@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+61
+'Ingrese un número para determinar si es positivo o negativo'
+5
+1
+3
+num
+7
+0
+1
+7
+num > 0
+4
+1
+33
+'El número ', num, ' es negativo'
+13
+4
+1
+33
+'El número ', num, ' es positivo'
+13
+1

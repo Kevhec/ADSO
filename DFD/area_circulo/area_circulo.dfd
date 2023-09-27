@@ -1,0 +1,31 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+6
+radius
+1
+0
+4
+1
+56
+'Digite el radio del círculo en cm para conocer su área'
+5
+1
+6
+radius
+6
+1
+4
+area
+21
+3.14159265 * radius^2
+4
+1
+69
+'El área del círculo con radio ', radius, 'cm ', 'es ', area, ' cm^2'
+1

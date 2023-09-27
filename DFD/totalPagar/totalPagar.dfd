@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+11
+valorCompra
+1
+0
+10
+totalPagar
+1
+0
+4
+1
+31
+'Ingrese el valor de su compra'
+5
+1
+11
+valorCompra
+7
+0
+1
+20
+valorCompra > 100000
+6
+1
+10
+totalPagar
+11
+valorCompra
+13
+6
+1
+10
+totalPagar
+17
+valorCompra * 1.2
+13
+4
+1
+38
+'Su total a pagar es de $', totalPagar
+1

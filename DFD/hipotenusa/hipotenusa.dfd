@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+7
+cateto1
+1
+0
+7
+cateto2
+1
+0
+4
+1
+86
+'Ingrese la longitud de los catetos, teniendo en cuenta que sean de la misma magnitud'
+5
+1
+16
+cateto1, cateto2
+4
+1
+62
+'La longitud de la hipotenusa es: ', sqrt(cateto1^2+cateto2^2)
+1
