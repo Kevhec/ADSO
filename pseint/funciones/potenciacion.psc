@@ -5,10 +5,10 @@ FinFuncion
 
 Proceso potenciacion
 	Definir base, exponent, result Como Entero;
-	
+
 	base = 0;
 	exponent = 0;
-	
+
 	Limpiar Pantalla;
 	Escribir '';
 	Escribir '|---------------------------------|';
@@ -20,9 +20,9 @@ Proceso potenciacion
 	Escribir '|          Digita la base         |';
 	Escribir '|---------------------------------|';
 	Escribir '';
-	
+
 	Leer base;
-	
+
 	Limpiar Pantalla;
 	Escribir '';
 	Escribir '|---------------------------------|';
@@ -34,11 +34,11 @@ Proceso potenciacion
 	Escribir '|       Digita el exponente       |';
 	Escribir '|---------------------------------|';
 	Escribir '';
-	
+
 	Leer exponent;
-	
+
 	result = potenciation(base, exponent);
-	
+
 	Limpiar Pantalla;
 	Escribir '';
 	Escribir '|---------------------------------|';
@@ -50,5 +50,5 @@ Proceso potenciacion
 	Escribir '';
 	Escribir 'Resultado: ', result;
 	Escribir '';
-	
+
 FinProceso
